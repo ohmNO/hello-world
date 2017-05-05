@@ -1,3 +1,3 @@
 # hello-world
 the beginning 
-Hi there my Name is Sherry and I love fruit.
+Hi there my name is Sherry and I love fruit.
